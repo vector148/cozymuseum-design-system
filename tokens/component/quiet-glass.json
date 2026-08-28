@@ -1,0 +1,13 @@
+{
+  "component": {
+    "quietGlass": {
+      "background": { "$type": "color", "$value": "{color.surface.glass}" },
+      "fallbackBackground": { "$type": "color", "$value": "{color.surface.glassFallback}" },
+      "border": { "$type": "color", "$value": "{color.border.quiet}" },
+      "foreground": { "$type": "color", "$value": "{color.foreground.primary}" },
+      "blur": { "$type": "dimension", "$value": "{semantic.effect.glassBlur}" },
+      "radius": { "$type": "dimension", "$value": "{semantic.radius.surface}" },
+      "transitionDuration": { "$type": "duration", "$value": "{semantic.motion.standard}" }
+    }
+  }
+}
