@@ -1,0 +1,27 @@
+{
+  "component": {
+    "button": {
+      "primary": {
+        "background": { "$type": "color", "$value": "{color.foreground.primary}" },
+        "foreground": { "$type": "color", "$value": "{color.foreground.inverse}" },
+        "radius": { "$type": "dimension", "$value": "{semantic.radius.control}" },
+        "paddingInline": { "$type": "dimension", "$value": "{semantic.space.control}" },
+        "focusRing": { "$type": "color", "$value": "{color.focus.ring}" }
+      }
+    },
+    "navigation": {
+      "active": {
+        "background": { "$type": "color", "$value": "{color.surface.glass}" },
+        "foreground": { "$type": "color", "$value": "{color.foreground.primary}" },
+        "border": { "$type": "color", "$value": "{color.border.quiet}" },
+        "radius": { "$type": "dimension", "$value": "{semantic.radius.control}" }
+      }
+    },
+    "card": {
+      "background": { "$type": "color", "$value": "{color.background.surface}" },
+      "foreground": { "$type": "color", "$value": "{color.foreground.primary}" },
+      "radius": { "$type": "dimension", "$value": "{semantic.radius.surface}" },
+      "gap": { "$type": "dimension", "$value": "{semantic.space.control}" }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "semantic": {
+    "space": {
+      "compact": { "$type": "dimension", "$value": "{spacing.2}" },
+      "control": { "$type": "dimension", "$value": "{spacing.3}" },
+      "section": { "$type": "dimension", "$value": "{spacing.8}" }
+    },
+    "radius": {
+      "control": { "$type": "dimension", "$value": "{radius.medium}" },
+      "surface": { "$type": "dimension", "$value": "{radius.large}" },
+      "capsule": { "$type": "dimension", "$value": "{radius.pill}" }
+    },
+    "effect": {
+      "glassBlur": { "$type": "dimension", "$value": "{effect.blur.quietGlass}" }
+    },
+    "motion": {
+      "instant": { "$type": "duration", "$value": "{effect.duration.instant}" },
+      "standard": { "$type": "duration", "$value": "{effect.duration.standard}" }
+    },
+    "typography": {
+      "bodyFamily": { "$type": "fontFamily", "$value": "{font.family.primary}" },
+      "bodySize": { "$type": "dimension", "$value": "{font.size.body}" },
+      "bodyWeight": { "$type": "fontWeight", "$value": "{font.weight.regular}" },
+      "headingSize": { "$type": "dimension", "$value": "{font.size.heading}" },
+      "headingWeight": { "$type": "fontWeight", "$value": "{font.weight.heading}" }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --color-brand-deep-green: #082118; /** Nền chính và không gian bảo tàng của CozyMuseum */
+  --color-brand-red-brown: #19140e; /** Bề mặt tối ấm và lớp chiều sâu hỗ trợ */
+  --color-brand-cream-white: #f2e5d9; /** Foreground sáng, chữ và logo */
+  --color-brand-cream-white20: rgba(242, 229, 217, 0.2);
+  --color-brand-cream-white40: rgba(242, 229, 217, 0.4);
+  --color-brand-red-brown80: rgba(25, 20, 14, 0.8);
+  --color-brand-red-brown95: rgba(25, 20, 14, 0.95);
+  --spacing-0: 0px;
+  --spacing-1: 0.25rem;
+  --spacing-2: 0.5rem;
+  --spacing-3: 0.75rem;
+  --spacing-4: 1rem;
+  --spacing-6: 1.5rem;
+  --spacing-8: 2rem;
+  --spacing-12: 3rem;
+  --spacing-16: 4rem;
+  --spacing-24: 6rem;
+  --radius-small: 0.5rem;
+  --radius-medium: 0.875rem;
+  --radius-large: 1.25rem;
+  --radius-pill: 9999px;
+  --effect-blur-quiet-glass: 18px;
+  --effect-duration-instant: 0ms;
+  --effect-duration-standard: 180ms;
+  --font-family-primary: 'Be Vietnam Pro', system-ui, sans-serif; /** Font duy nhất của CozyMuseum cùng fallback hệ thống */
+  --font-size-caption: 0.75rem;
+  --font-size-body-small: 0.875rem;
+  --font-size-body: 1rem;
+  --font-size-lead: 1.125rem;
+  --font-size-heading-small: 1.5rem;
+  --font-size-heading: 2.25rem;
+  --font-size-display: clamp(2.75rem, 7vw, 5.5rem);
+  --font-weight-regular: 400;
+  --font-weight-medium: 600;
+  --font-weight-heading: 800;
+  --font-weight-display: 900;
+  --color-background-canvas: var(--color-brand-deep-green);
+  --color-background-surface: var(--color-brand-red-brown);
+  --color-foreground-primary: var(--color-brand-cream-white);
+  --color-foreground-inverse: var(--color-brand-deep-green);
+  --color-border-quiet: var(--color-brand-cream-white20);
+  --color-border-strong: var(--color-brand-cream-white40);
+  --color-surface-glass: var(--color-brand-red-brown80);
+  --color-surface-glass-fallback: var(--color-brand-red-brown95);
+  --color-focus-ring: var(--color-brand-cream-white);
+  --semantic-space-compact: var(--spacing-2);
+  --semantic-space-control: var(--spacing-3);
+  --semantic-space-section: var(--spacing-8);
+  --semantic-radius-control: var(--radius-medium);
+  --semantic-radius-surface: var(--radius-large);
+  --semantic-radius-capsule: var(--radius-pill);
+  --semantic-effect-glass-blur: var(--effect-blur-quiet-glass);
+  --semantic-motion-instant: var(--effect-duration-instant);
+  --semantic-motion-standard: var(--effect-duration-standard);
+  --semantic-typography-body-family: var(--font-family-primary);
+  --semantic-typography-body-size: var(--font-size-body);
+  --semantic-typography-body-weight: var(--font-weight-regular);
+  --semantic-typography-heading-size: var(--font-size-heading);
+  --semantic-typography-heading-weight: var(--font-weight-heading);
+  --component-button-primary-background: var(--color-foreground-primary);
+  --component-button-primary-foreground: var(--color-foreground-inverse);
+  --component-button-primary-radius: var(--semantic-radius-control);
+  --component-button-primary-padding-inline: var(--semantic-space-control);
+  --component-button-primary-focus-ring: var(--color-focus-ring);
+  --component-navigation-active-background: var(--color-surface-glass);
+  --component-navigation-active-foreground: var(--color-foreground-primary);
+  --component-navigation-active-border: var(--color-border-quiet);
+  --component-navigation-active-radius: var(--semantic-radius-control);
+  --component-card-background: var(--color-background-surface);
+  --component-card-foreground: var(--color-foreground-primary);
+  --component-card-radius: var(--semantic-radius-surface);
+  --component-card-gap: var(--semantic-space-control);
+  --component-quiet-glass-background: var(--color-surface-glass);
+  --component-quiet-glass-fallback-background: var(--color-surface-glass-fallback);
+  --component-quiet-glass-border: var(--color-border-quiet);
+  --component-quiet-glass-foreground: var(--color-foreground-primary);
+  --component-quiet-glass-blur: var(--semantic-effect-glass-blur);
+  --component-quiet-glass-radius: var(--semantic-radius-surface);
+  --component-quiet-glass-transition-duration: var(--semantic-motion-standard);
+}

@@ -1,0 +1,26 @@
+{
+  "font": {
+    "family": {
+      "primary": {
+        "$type": "fontFamily",
+        "$value": ["Be Vietnam Pro", "system-ui", "sans-serif"],
+        "$description": "Font duy nhất của CozyMuseum cùng fallback hệ thống"
+      }
+    },
+    "size": {
+      "caption": { "$type": "dimension", "$value": "0.75rem" },
+      "bodySmall": { "$type": "dimension", "$value": "0.875rem" },
+      "body": { "$type": "dimension", "$value": "1rem" },
+      "lead": { "$type": "dimension", "$value": "1.125rem" },
+      "headingSmall": { "$type": "dimension", "$value": "1.5rem" },
+      "heading": { "$type": "dimension", "$value": "2.25rem" },
+      "display": { "$type": "dimension", "$value": "clamp(2.75rem, 7vw, 5.5rem)" }
+    },
+    "weight": {
+      "regular": { "$type": "fontWeight", "$value": 400 },
+      "medium": { "$type": "fontWeight", "$value": 600 },
+      "heading": { "$type": "fontWeight", "$value": 800 },
+      "display": { "$type": "fontWeight", "$value": 900 }
+    }
+  }
+}
