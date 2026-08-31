@@ -1,0 +1,42 @@
+{
+  "color": {
+    "brand": {
+      "deepGreen": {
+        "$type": "color",
+        "$value": "#082118",
+        "$description": "Nền chính và không gian bảo tàng của CozyMuseum"
+      },
+      "redBrown": {
+        "$type": "color",
+        "$value": "#19140E",
+        "$description": "Bề mặt tối ấm và lớp chiều sâu hỗ trợ"
+      },
+      "creamWhite": {
+        "$type": "color",
+        "$value": "#F2E5D9",
+        "$description": "Foreground sáng, chữ và logo"
+      },
+      "museumGold": {
+        "$type": "color",
+        "$value": "#DFC486",
+        "$description": "Màu vàng bảo tàng chủ đạo cho accent, emphasis và key visual"
+      },
+      "creamWhite20": {
+        "$type": "color",
+        "$value": "#F2E5D933"
+      },
+      "creamWhite40": {
+        "$type": "color",
+        "$value": "#F2E5D966"
+      },
+      "redBrown80": {
+        "$type": "color",
+        "$value": "#19140ECC"
+      },
+      "redBrown95": {
+        "$type": "color",
+        "$value": "#19140EF2"
+      }
+    }
+  }
+}

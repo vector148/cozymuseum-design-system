@@ -1,0 +1,23 @@
+{
+  "color": {
+    "background": {
+      "canvas": { "$type": "color", "$value": "{color.brand.deepGreen}" },
+      "surface": { "$type": "color", "$value": "{color.brand.redBrown}" }
+    },
+    "foreground": {
+      "primary": { "$type": "color", "$value": "{color.brand.creamWhite}" },
+      "inverse": { "$type": "color", "$value": "{color.brand.deepGreen}" }
+    },
+    "border": {
+      "quiet": { "$type": "color", "$value": "{color.brand.creamWhite20}" },
+      "strong": { "$type": "color", "$value": "{color.brand.creamWhite40}" }
+    },
+    "surface": {
+      "glass": { "$type": "color", "$value": "{color.brand.redBrown80}" },
+      "glassFallback": { "$type": "color", "$value": "{color.brand.redBrown95}" }
+    },
+    "focus": {
+      "ring": { "$type": "color", "$value": "{color.brand.creamWhite}" }
+    }
+  }
+}

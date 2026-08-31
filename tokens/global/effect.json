@@ -1,0 +1,11 @@
+{
+  "effect": {
+    "blur": {
+      "quietGlass": { "$type": "dimension", "$value": "18px" }
+    },
+    "duration": {
+      "instant": { "$type": "duration", "$value": "0ms" },
+      "standard": { "$type": "duration", "$value": "180ms" }
+    }
+  }
+}

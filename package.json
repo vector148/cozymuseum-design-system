@@ -1,0 +1,44 @@
+{
+  "name": "@cozymuseum/tokens",
+  "version": "1.0.0",
+  "description": "CozyMuseum Quiet Glass design tokens and governed first-party brand assets",
+  "type": "module",
+  "main": "build/js/tokens.js",
+  "style": "build/css/variables.css",
+  "sass": "build/scss/_tokens.scss",
+  "exports": {
+    ".": "./build/js/tokens.js",
+    "./css": "./build/css/variables.css",
+    "./scss": "./build/scss/_tokens.scss",
+    "./json": "./build/tokens.json"
+  },
+  "files": [
+    "brand/",
+    "build/",
+    "examples/",
+    "fonts/",
+    "manifest/",
+    "styles/",
+    "tokens/",
+    "CHANGELOG.md",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "node build.js && node scripts/build-publication-manifest.mjs",
+    "test": "node --test",
+    "verify": "npm test && npm run build && node scripts/verify.mjs"
+  },
+  "keywords": [
+    "cozymuseum",
+    "design-tokens",
+    "design-system",
+    "quiet-glass",
+    "w3c-design-tokens"
+  ],
+  "author": "CozyMuseum",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "style-dictionary": "^4.0.0"
+  }
+}
