@@ -1,0 +1,15 @@
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.scss text eol=lf
+*.svg text eol=lf
+*.jpg binary
+*.woff2 binary
+
+# Published artifacts are byte-addressed by the manifest; Git must not normalize them.
+/brand/** -text
+/fonts/** -text
+/manifest/** -text
+/styles/** -text

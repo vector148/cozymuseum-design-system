@@ -1,0 +1,20 @@
+{
+  "spacing": {
+    "0": { "$type": "dimension", "$value": "0px" },
+    "1": { "$type": "dimension", "$value": "0.25rem" },
+    "2": { "$type": "dimension", "$value": "0.5rem" },
+    "3": { "$type": "dimension", "$value": "0.75rem" },
+    "4": { "$type": "dimension", "$value": "1rem" },
+    "6": { "$type": "dimension", "$value": "1.5rem" },
+    "8": { "$type": "dimension", "$value": "2rem" },
+    "12": { "$type": "dimension", "$value": "3rem" },
+    "16": { "$type": "dimension", "$value": "4rem" },
+    "24": { "$type": "dimension", "$value": "6rem" }
+  },
+  "radius": {
+    "small": { "$type": "dimension", "$value": "0.5rem" },
+    "medium": { "$type": "dimension", "$value": "0.875rem" },
+    "large": { "$type": "dimension", "$value": "1.25rem" },
+    "pill": { "$type": "dimension", "$value": "9999px" }
+  }
+}

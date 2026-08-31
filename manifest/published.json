@@ -1,0 +1,189 @@
+{
+  "schema": "cozymuseum-design-system-publication-v1",
+  "generatedBy": "scripts/build-publication-manifest.mjs",
+  "owner": "CozyMuseum",
+  "rights": "first-party",
+  "sourceRevision": "cozymuseum-design-system@1.0.0",
+  "roots": [
+    "brand",
+    "fonts",
+    "styles"
+  ],
+  "files": [
+    {
+      "path": "brand/cozymuseum-mark-dark.svg",
+      "sha256": "d64a9c6c6de9ecbcc783a76cda64d0967ede00e8d72207c78257a12a36eebb6d",
+      "bytes": 23499
+    },
+    {
+      "path": "brand/cozymuseum-primary-logo.svg",
+      "sha256": "6ea9bff427be097bacd5da89d149b10a41b7ebcca0c3f2dd5082d240bd69cc59",
+      "bytes": 23645
+    },
+    {
+      "path": "brand/cozymuseum-sidebar-logo.svg",
+      "sha256": "155c1a5f25fd3e1e499db5e58cca8bb6e9cdfd04ca9fe6962402ba73c03166e3",
+      "bytes": 23188
+    },
+    {
+      "path": "brand/og-image.jpg",
+      "sha256": "8dd1cb8406529a27e2490c46ed7a92670055c8b4926c4455404e1db80265564d",
+      "bytes": 495390
+    },
+    {
+      "path": "fonts/google-font-1.woff2",
+      "sha256": "dc085e2fba3414e5c5bf1e6172f921a9f81c5859946a4ed3d63c1e470d96a9e2",
+      "bytes": 11532
+    },
+    {
+      "path": "fonts/google-font-10.woff2",
+      "sha256": "4f58af2d1c3e28a9ba14c51c82db2751d78344b75bdcb34de24a1031ebe59da6",
+      "bytes": 12468
+    },
+    {
+      "path": "fonts/google-font-11.woff2",
+      "sha256": "33d57e5bd840b03921568e08d2be1082d453e55f1ba55f421e41a1aa54e12601",
+      "bytes": 13852
+    },
+    {
+      "path": "fonts/google-font-12.woff2",
+      "sha256": "a193dd87699bd2e18ddf72dc271493ea82a23dad9f5c334d9f2a257b1e05fc30",
+      "bytes": 22152
+    },
+    {
+      "path": "fonts/google-font-13.woff2",
+      "sha256": "26b241d1d5f489c8a65c1a3c4cdcdb48dd114a9ed7e0c0180182191f087cbe96",
+      "bytes": 12404
+    },
+    {
+      "path": "fonts/google-font-14.woff2",
+      "sha256": "85a2008e6d5f2381a076d36d38771957b118683d0fff3029844737aff6b96a10",
+      "bytes": 13752
+    },
+    {
+      "path": "fonts/google-font-15.woff2",
+      "sha256": "7c5d0871188c09339a6eb46948420ed9b11f3d06ea3ff1c5d1cf41b06a3504e7",
+      "bytes": 22320
+    },
+    {
+      "path": "fonts/google-font-16.woff2",
+      "sha256": "70b8feb4c47c137c77ba65d3ef73d5eeda852af1d7ce26f307d7853983948795",
+      "bytes": 12072
+    },
+    {
+      "path": "fonts/google-font-17.woff2",
+      "sha256": "8734a69a892ce1efb37eeda024affe833d99f4cde8fce0c0bbfb4afa5255e6b0",
+      "bytes": 13592
+    },
+    {
+      "path": "fonts/google-font-18.woff2",
+      "sha256": "b7437222bf15d6be4394c13ec31188e1bf8b9be13e6c38dc4c18ad14511b4888",
+      "bytes": 21760
+    },
+    {
+      "path": "fonts/google-font-19.woff2",
+      "sha256": "66138a5f497822acf2bf9a735db38b90fa36d182b6aa5e2f2c488b3a365e18e9",
+      "bytes": 25208
+    },
+    {
+      "path": "fonts/google-font-2.woff2",
+      "sha256": "f7a2811e471c2973a1179ce39da3ad6bb8082381aa8d1535ccfcbc3d6d78a052",
+      "bytes": 13056
+    },
+    {
+      "path": "fonts/google-font-20.woff2",
+      "sha256": "b47f37d67877becd66794516601cce5703d182857945ec9d1e7137a1ead38192",
+      "bytes": 19596
+    },
+    {
+      "path": "fonts/google-font-21.woff2",
+      "sha256": "d9b823830add55511fb4381f43a752b7a682af0df7542931d89c0c10c86af087",
+      "bytes": 9520
+    },
+    {
+      "path": "fonts/google-font-22.woff2",
+      "sha256": "a3b66800e9aa36bd8f3cc59f29024c9e063a2ac607d955dd27e149c29cac8410",
+      "bytes": 30832
+    },
+    {
+      "path": "fonts/google-font-23.woff2",
+      "sha256": "4a259dde317e08aa5d37e6eb684e222ae833516b2a0fccba36ee5e36224f16be",
+      "bytes": 40896
+    },
+    {
+      "path": "fonts/google-font-24.woff2",
+      "sha256": "1e7fd9993c695808ce757d39d192709f8ee74883c5b74d2a06510694c64a54ec",
+      "bytes": 11120
+    },
+    {
+      "path": "fonts/google-font-25.woff2",
+      "sha256": "fffaa1960497be87b9763e6431ca06cc98362b63deb59fe424f964b0fe560708",
+      "bytes": 32196
+    },
+    {
+      "path": "fonts/google-font-26.woff2",
+      "sha256": "170a928c701ef00e4b91105f870dd2c764b9ddb0c725cda6e71de576a8e72a00",
+      "bytes": 35120
+    },
+    {
+      "path": "fonts/google-font-3.woff2",
+      "sha256": "03d1b589cff172e1a670b3573e731d3380bc326f80cf83b0d3504e3188e2e074",
+      "bytes": 21168
+    },
+    {
+      "path": "fonts/google-font-4.woff2",
+      "sha256": "86341610cbe907eecf461c9159c168d5efb52bb1a33963813a08f520555d8e66",
+      "bytes": 12172
+    },
+    {
+      "path": "fonts/google-font-5.woff2",
+      "sha256": "947d592eb7676914507ff68fc11fcf2cfdecd6ebaf0fa2af6047f66a63ea7d0f",
+      "bytes": 13548
+    },
+    {
+      "path": "fonts/google-font-6.woff2",
+      "sha256": "b621f77d35f777023aa11ca524462d511b4b28a813adbc0e9d15a10fc61dfe4e",
+      "bytes": 21892
+    },
+    {
+      "path": "fonts/google-font-7.woff2",
+      "sha256": "97658c6f9a384f29a3005c3d96e2a0d1c810192cf68979071c290f5a377a9f99",
+      "bytes": 12176
+    },
+    {
+      "path": "fonts/google-font-8.woff2",
+      "sha256": "20cc75daeaaaa0fa8af2b616b2de2b2900f0ce14ae8e9faa47d272cedd93827f",
+      "bytes": 13608
+    },
+    {
+      "path": "fonts/google-font-9.woff2",
+      "sha256": "9503dec2a7c532c8331e9600bcafea287a4fd208573b8668d85ab8d8de1863c7",
+      "bytes": 22032
+    },
+    {
+      "path": "styles/curatale.css",
+      "sha256": "8ee93e122556c77fee4eb7428b3ac167de1c1511075ddecfe601820745587018",
+      "bytes": 22428
+    },
+    {
+      "path": "styles/fonts.css",
+      "sha256": "00ed06b1187703ec18a256d24d7bad2e69c027f75bbb099f737c5fa229c03aa3",
+      "bytes": 14673
+    },
+    {
+      "path": "styles/glass.css",
+      "sha256": "38554b765b737d61abedf6c7cd78147dfaf23a40301dc7a5c76c48a1e6d82c84",
+      "bytes": 74728
+    },
+    {
+      "path": "styles/global.css",
+      "sha256": "9b73d5902f7401a16a8799b265254ddbf30e63e8706f9126a5971dac70084dab",
+      "bytes": 3667
+    },
+    {
+      "path": "styles/music.css",
+      "sha256": "d5f5fb9c193e20e15ac1e84ad83f200e4c27b660d6ff3a18f95c43b1250b347f",
+      "bytes": 2906
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+# CozyMuseum Design System Proprietary License
+  
+Copyright © 2026 CozyMuseum ("CozyMuseum", the "Owner"). All rights reserved.
+
+This repository, its history, and every file in it (including but not limited to design tokens, CSS/SCSS outputs, typography selections, Liquid Glass UI integrations, and brand assets) are the proprietary property of the Owner, except for third-party materials (such as open-source fonts) identified in Section 5. Nothing in this repository is open source.
+
+## 1. Default position: no permission is granted
+
+No person or organization may use, copy, run, host, fork, clone, mirror, modify, translate, merge, publish, distribute, sublicense, sell, rent, reverse engineer, extract data from, train or fine-tune a machine learning model on, or create derivative works from any part of this repository, in whole or in part, without prior written authorization from the Owner.
+
+Absence of a reply to a request is not authorization.
+
+## 2. Authorized use
+
+Personnel, contractors, and integrations acting for the Owner (such as Vercel and CI runners) may use this repository only for the purpose, scope, and period stated in their written authorization. Authorization is personal or organization-specific, non-transferable, non-sublicensable, and revocable at any time.
+
+## 3. Brand assets, Marks, and UI Identity (Trade Dress)
+
+The CozyMuseum™ name, logos, wordmarks, backgrounds, imagery, icon sets, and design-source materials are Brand Assets and are treated as strictly protected proprietary property.
+
+While individual colors and open-source fonts remain public or governed by their own licenses (see Section 5), the specific structural combination of these elements—including the compiled Design Tokens, CSS runtime architecture, Liquid Glass UI patterns, and precise palette pairings—constitutes the distinct Trade Dress (Diện mạo thương hiệu) of CozyMuseum.
+
+No person or organization may extract, copy, or reverse-engineer these specific combinations, token structures, or UI patterns to create derivative works, clones, or any product that mimics the CozyMuseum Trade Dress or causes brand confusion, without prior written authorization from the Owner.
+
+## 4. No text or data mining, no model training
+
+The Owner expressly reserves all rights in respect of text and data mining, automated extraction, and the training, fine-tuning, evaluation, embedding, or retrieval-augmented use of any machine learning system on the contents of this repository. This reservation applies to design tokens, CSS rules, JSON manifests, and Brand Assets alike.
+
+## 5. Third-party materials
+
+This repository incorporates third-party fonts (e.g., Be Vietnam Pro) and other materials that remain the property of their respective owners and are governed by their own licenses (such as the SIL Open Font License). Those materials are not covered by this License. Their licenses and required notices are recorded alongside the files themselves, and those terms prevail over this License for those materials only.
+
+## 6. No implied rights
+
+Public accessibility, indexing, downloadability, receipt of a copy, or the technical ability to read or duplicate a file does not grant any right. No copyright, patent, trademark, trade secret, database, design, moral, or other right is granted or waived by implication, estoppel, acquiescence, course of dealing, or otherwise. 
+
+## 7. Enforcement
+
+Unauthorized use of this repository, its Design Tokens, or the Brand Assets infringes copyright and other rights and may also constitute passing off, unfair competition, or misappropriation of confidential information.
+
+The Owner may pursue available remedies, including takedown and delisting requests to hosting providers, registries, search engines, and platform operators; injunctive relief; and claims for damages.
+
+## 8. No warranty and no liability
+
+This repository is provided "AS IS" and "AS AVAILABLE", without warranty or condition of any kind. To the maximum extent permitted by applicable law, the Owner is not liable for any direct, indirect, incidental, special, consequential, exemplary, or punitive damages arising out of or in connection with this repository or its use.
+
+## 9. Contact
+
+Authorization requests, license questions, and infringement reports must be sent through a verified Owner contact channel published at https://cozymuseum.app/ or through the verified GitHub profile that owns the official CozyMuseum repository.
